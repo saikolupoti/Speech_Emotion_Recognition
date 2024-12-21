@@ -80,6 +80,17 @@ The following steps summarize the architecture:
 3. **Data Augmentation**: Techniques like noise injection, pitch variation, and time stretching are used to generate synthetic data, improving model generalization.
 
 ---
+Results
+Model Performance
+Emotion	Accuracy (%)
+Happy	96.1
+Sad	92.3
+Angry	95.0
+Neutral	93.5
+Fear	91.2
+Note: These results are based on the RAVDESS and CREMA-D datasets. Performance may vary depending on the dataset and model used.
+
+
 
 ## Installation
 
